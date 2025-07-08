@@ -1,4 +1,4 @@
-# Hbase部署指南
+# Apisix部署指南
 
 ## ‌一、环境准备
 ### 系统配置
@@ -10,5 +10,5 @@
 
 ## ‌二、安装部署部署
 
-安装部署脚本：[spark_deployment](../scripts/deploy_apisix.sh)
+安装部署脚本：[deploy_apisix](../scripts/deploy_apisix.sh)
 
