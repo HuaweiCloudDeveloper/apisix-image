@@ -22,7 +22,7 @@
 - **Multi-platform Support**: Compatible with bare metal, Kubernetes, and cloud function environments (such as AWS Lambda and Azure Function).
 - **Security Protection**: Built-in multiple authentication methods (such as JWT, search for [IP blacklist/whitelist]), and supports custom plugin development.
 
-The open-source image product [**APISIX Gateway**](https://marketplace.huaweicloud.com/intl/hidden/contents/bfab1544-a53b-4b72-8616-577993465729) provided by this project has pre-installed the 3.12.0 version of apisix and its related runtime environment, and provides deployment templates. Come and refer to the usage guide to easily start an efficient "out-of-the-box" experience!
+The open-source image product [**APISIX Gateway**](https://marketplace.huaweicloud.com/intl/contents/bfab1544-a53b-4b72-8616-577993465729) provided by this project has pre-installed the 3.12.0 version of apisix and its related runtime environment, and provides deployment templates. Come and refer to the usage guide to easily start an efficient "out-of-the-box" experience!
 
 > **System requirements are as follows:**
 > - CPU: 2 vCPUs or higher
